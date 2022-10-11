@@ -23,4 +23,5 @@ https://www.geeksforgeeks.org/interfaces-in-golang/
 
 
 <------------struct with pointer receiver or value complete depth------------------>
+
 https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a
