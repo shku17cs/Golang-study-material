@@ -7,7 +7,7 @@ https://www.tutorialspoint.com/http/http_parameters.htm-> http request method
 https://drstearns.github.io/tutorials/gomiddleware/#:~:text=A%20middleware%20handler%20is%20simply,server%20and%20the%20actual%20handler->middleware pattren in go
 
 <----- complete doc for go----->
-https://www.golangprograms.com/go-language/variadic-functions.html  -> complete golang doc 
+https://www.golangprograms.com/go-language/variadic-functions.html 
 https://lets-go.alexedwards.net/sample/00.01-contents.html
 https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go
 https://www.alexedwards.net/blog/making-and-using-middleware
